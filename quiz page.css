@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: #875fc0;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.heading {
+    text-align: right;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+}
+
+.card {
+    height: 220px;
+    width: 420px;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.image {
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.paragraph {
+    font-size: 15px;
+}
+
+.card2 {
+    width: 420px;
+    height: 400px;
+    border-radius: 15px;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.option {
+    color: #323f4b;
+    background-color: #ffffff;
+    font-family: "roboto";
+    font-size: 16px;
+    font-weight: 500;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 13px;
+    margin: 10px;
+}
+
+.correct-answer {
+    color: #ffffff;
+    background-color: #878fc0;
+}
+
+.un-order {
+    list-style-type: none;
+}
